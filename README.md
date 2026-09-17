@@ -7,6 +7,7 @@ Consume la API pública de JSONPlaceholder.
 
 ## Requisitos
 """bash
+
 **pip install streamlit requests pandas matplotlip**
 
 
